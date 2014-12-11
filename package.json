@@ -1,0 +1,28 @@
+{
+  "name": "node-mongoose-history",
+  "version": "0.1.0",
+  "description": "A Mongoose plugin for adding a history column to Mongoose models",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/immense/node-mongoose-history"
+  },
+  "keywords": [
+    "mongoose",
+    "history",
+    "mongoose-history"
+  ],
+  "author": "Christian Bankester <cbankester@immense.net> (http://immense.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/immense/node-mongoose-history/issues"
+  },
+  "homepage": "https://github.com/immense/node-mongoose-history",
+  "scripts": {
+    "prepublish": "grunt"
+  },
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-coffee": "*"
+  }
+}

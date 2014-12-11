@@ -1,0 +1,7 @@
+node_modules
+example
+index.coffee
+Gruntfile.coffee
+README.md
+.gitignore
+.npmignore
